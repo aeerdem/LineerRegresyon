@@ -8,8 +8,6 @@ Bu repo, temel bir lineer regresyon modelinin ne olduğunu, nasıl kurulduğunu 
 - [Matematiksel Temel](#matematiksel-temel)
 - [Varsayımlar](#varsayımlar)
 - [Python Örneği](#python-örneği)
-- [İleri Okumalar ve Kaynaklar](#ileri-okumalar-ve-kaynaklar)
-- [GitHub Üzerinde Projenizi Geliştirme İpuçları](#github-üzerinde-projenizi-geliştirme-ipuçları)
 
 ---
 
